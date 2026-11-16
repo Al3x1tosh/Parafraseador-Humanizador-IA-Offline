@@ -1,0 +1,13 @@
+Copyright (c) 2026 Alexander Giovanny Del Salto Montesdeoca
+Todos los derechos reservados / All rights reserved.
+
+LICENCIA DE PROPIEDAD INTELECTUAL Y DISTRIBUCIÓN:
+
+1. AUTORÍA: La aplicación "Parafraseador_Offline.exe", su diseño de interfaz gráfica y su arquitectura de integración son propiedad intelectual exclusiva de su autor.
+2. USO PERMITIDO: Se autoriza la descarga y ejecución gratuita del software compilado únicamente para uso personal, estudiantil o profesional del usuario final.
+3. PROHIBICIONES: Sin autorización escrita del autor, queda estrictamente prohibido:
+   a) Descompilar, realizar ingeniería inversa, modificar o alterar el ejecutable.
+   b) Vender, alquilar, comercializar o cobrar por este software o paquetes que lo incluyan.
+   c) Redistribuir el programa atribuyéndose su autoría.
+
+Aviso de terceros: El motor de inferencia local (llama-server) y el modelo de lenguaje en formato GGUF incluidos para el funcionamiento offline pertenecen a sus respectivos desarrolladores bajo sus propias licencias abiertas.
